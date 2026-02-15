@@ -1,0 +1,12 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - scikit-learn=1.2.1
+  - python>=3.10
+  - pandas
+  - numpy
+  - matplotlib
+prefix: C:\Users\jeffr\miniconda3\envs\dstoolbox
